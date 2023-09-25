@@ -2,7 +2,7 @@
   "settingsInheritedFrom": "svg-GHC-2/whitesource-config@master",
   "hostRules": [
     {
-      "matchHost": "github.com/svg-at-wss/*",
+      "matchHost": "github.com",
       "hostType": "go",
       "userName": "svg-at-wss",
       "encrypted": {
