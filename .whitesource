@@ -2,7 +2,7 @@
   "settingsInheritedFrom": "svg-GHC-2/whitesource-config@master",
   "hostRules": [
     {
-      "matchHost": "github.com",
+      "matchHost": "https://github.com/svg-at-wss/*",
       "hostType": "go",
       "encrypted": {
         "token": "wcBMA8xOaBJvzJNbAQf+JVHl7EjUuKLnW8wwIBfhlXWnZT8M8iOsw/zyzDCfrifrQUauyzop6K/VRf9DF6c5peCKjFmXe0PKSWbp9m8219zryELoJ9Gl9xrulLtrbUAbm2Jb1wHqMIMAb9b5Pz6VdTkfNLWBIn39d745QOXWCcUy/IAJfSZwUNRBHgkVh8Q7c9ajm9Sbj0eGgdbOOzQf0hv1u6zrar/vuzUw8mdXYETXViP8Rl7RugF6buTPgqTR0xAeUOTD5yNQAyiZ/HBx5mEFtlM9sbeu5aSxuj0a2GuPVIYz8ebZVTiYNU3bG449e+eZjk6Go06tn3wIGkr2E2Lm47k6Rs1Wx4tCuIn1DtJ5AWbQ+fJdYbwT8gnudKChmIUkaxMiWMj/L/kH4MLUdkxlZyn7erPiR3YGCSqetGIB+icAV0AAdIgG55XQOu08NOzEyl/nNFhvSMV6YZJ17GWc3V4J3oXeHQf3EUcCRnT1WuvykoDwLqZuYqEYvBxKMk/AOyVGCzLRVg"
