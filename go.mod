@@ -3,7 +3,7 @@ module svgmodule
 go 1.18
 
 require (
-	github.com/spf13/cobra v1.2.1
+	github.com/spf13/cobra v1.7.0
 	github.com/svg-at-wss/secretmod v1.0.2
 )
 
