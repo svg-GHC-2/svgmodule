@@ -1,5 +1,8 @@
 {
   "settingsInheritedFrom": "svg-GHC-2/whitesource-config@master",
+  "remediateSettings": {
+    "enableRenovate": true
+  },
   "hostRules": [
     {
       "matchHost": "https://github.com/svg-at-wss/*",
