@@ -10,6 +10,13 @@
       "encrypted": {
         "token": "wcBMA8xOaBJvzJNbAQf9HFDRor30Cs6YE4gHQFN6XypzVn7lfNdGLFOctFuHOVxImx/PVGaGAa5bITC16xJycmWAX0+Z7WBgeVfae6dfWWhE0Br8U96AEhj8ZwvoL9Bf3CmQjUHMIwnpyLAtzQqvoJvjZlsKvBeerpbFBd1yohYFJ6FFJcjAZaOoOov/nvCH4Pb0RgUmol90XcJCTRx9gfTNml8fl/NQV7WL+8+ca4Hgk5f+DBtwMYzPFN1CE9Kc0vILG+XfQXwFBMcnFCOJkF0wFSrY0HWpz/jk/LLsmzsDFvzzvsLXDryMDJLfH3PGdiuEA2qphcPyWF4BPGwihuKzfGXNefdg8ewfjTZaDNJ4AVIgM+ZQ/xeqL4RkA1NfHym53jNgmaCOLKxX0bvY68bph5Qog97vegOyLY8Opi3dESiW4icUtl426L9KYnQLtT8B0rzbQvsHKxRSmEAqQlyOYsV8GhIWK1ZHDWnomIdwJ1XG98LZsBm0RdpOzoJ7eogktjCoTMzJ"
       }
+    },
+    {
+      "matchHost": "http://ec2-3-133-17-3.us-east-2.compute.amazonaws.com/SVGGHE/*",
+      "hostType": "go",
+      "encrypted": {
+        "token": "wcBMA8xOaBJvzJNbAQf/W0R32bKecT/AvNmZr7YarNwvIcMAivM5SpJCehOGUH2+DTEWaBcWMfJdXo82J50wHtVSHSmo33+MhgcVdYuUfMHXCFQbAqvqf4S7CGbqg0YLpI5uBm9NhiBjQBLJXMm2xaehGA9nNV3bqS/yX6pErZ9HiXlMT3yewzqBhIMTmVNYSODzjeNhExPAuuR+uPa6P9qL5kIPp0k96s7GE7WCPInl0m56Up8lE064B1MrQYxS8/4CfUN+o4bjvQ/9vbBNYe4dLD6M5ghcwnEzP1DTtCYbdLbpI5v94xrXuZRGjHRD1SuT9PJ52mBT/iko2ZIdIgbh3d4mLPTNu/0smYaE9dJ4AR5Oj2EpQ+bD2lIxscjla4GCKHP9sRZGdqxrZVzc6vn0uBVOLjbY8yKaTDB0GIIUec0sIos03168cDZ4TMBnik0/2paxcN0xBEfUyTjR2ZrfS9F4btXkjJIpNyiZVvyozyRDp6M9qy874yIymBnysmJSK1AT7G3y"
+      }
     }
   ]
 }
